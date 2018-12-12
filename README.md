@@ -3,7 +3,7 @@ Python script for processing data pulled from whitehouse.gov
 
 ### TLDR: 
 
-Before analyzing this data visually in R, I wrote a script to clean and standardize all tables. This way, once I loaded them into R, they'd be easy to join with eachother and plot. The original tables (federal government spending data) are available on whitehouse.gov.
+Before analyzing this data visually in R, I wrote a script to clean and standardize all tables. This way, once I loaded them into R, they'd be easy to join with one another to create plots. The original tables (federal government spending data) are available on whitehouse.gov.
 
 ### Collection and cleaning pipeline
 
